@@ -1,5 +1,6 @@
 # Personal Portfolio (React + Express + MySQL)
 
+
 ## Run locally
 1. MySQL: `mysql -u root -p < server/schema.sql`
 2. API: `cd server && cp .env.example .env` (add your DB password), then `npm install && npm run dev`
